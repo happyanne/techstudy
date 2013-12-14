@@ -5,6 +5,7 @@
   * xstream不同版本序列化case代码：`git clone https://github.com/imsizon/techstudy.git`
   * `cd techstudy/classloader-test`
   * `mvn exec:java`，输出内容应该如下：
+
 ```
 [INFO] [exec:java {execution: default-cli}]
 ================Raw XmlObject=================
